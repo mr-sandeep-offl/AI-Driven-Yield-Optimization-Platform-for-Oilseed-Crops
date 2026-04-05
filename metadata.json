@@ -1,0 +1,5 @@
+{
+  "name": "AgriYield AI",
+  "description": "AI-powered platform for Oilseed Crop Yield Optimization, providing predictions, fertilizer recommendations, and disease detection for farmers.",
+  "requestFramePermissions": ["geolocation"]
+}
